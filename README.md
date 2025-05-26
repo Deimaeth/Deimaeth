@@ -25,10 +25,6 @@ Withal, I have a powerful predisposition to discover, explore and tinker with th
 
 <img src="https://github-readme-stats.vercel.app/api?username=KonnerV&theme=dracula&show_icons=true&hide_border=false&count_private=true">
 
-## Website && Other information
-You can check out my official [website](https://zaerite.co.uk) where I blog and hold all the newsest news and updates on ongoing projects along with some upcoming ones too!
-In addition you can join my [discord](https://discord.gg/WSx336WCCe) whee you can have access to my community and early updates and even test my latest updates for all of my projects.
-
 ## Current ongoing projects
 
 - [Zaeros](https://github.com/KonnerV/Zaeros)
