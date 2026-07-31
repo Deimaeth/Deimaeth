@@ -1,6 +1,6 @@
-# KonnerV
+# Deimaeth
 Greetings!
-My name is [KonnerV](https://github.com/KonnerV), a young, aspiring and enthusiastic programmer who loves programming in their spare time.
+My name is [Deimaeth](https://github.com/Deimaeth), a young, aspiring and enthusiastic programmer who loves programming in their spare time.
 I profoundly relish using a meticulous array of tools and languages. This includes the likes of: C, C++, C#, Java and Python just to mention a few.
 
 Withal, I have a powerful predisposition to discover, explore and tinker with the vast complexity of Operating System Development and the miscellaneous topics that come with it.
@@ -27,5 +27,6 @@ Withal, I have a powerful predisposition to discover, explore and tinker with th
 
 ## Current ongoing projects
 
-- [Zaeros](https://github.com/KonnerV/Zaeros)
-- [Rmlogs](https://github.com/KonnerV/Rmlogs)
+- [Rmlogs](https://github.com/Deimaeth/Rmlogs)
+- [Prismatic Renderer](https://github.com/Deimaeth/PrismaticRenderer)
+- [Gliatron](https://github.com/Deimaeth/Gliatron)
