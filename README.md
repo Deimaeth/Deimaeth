@@ -20,11 +20,6 @@ Withal, I have a powerful predisposition to discover, explore and tinker with th
 
 <img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python
 
-## Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonnerV&theme=dracula&show_icons=true&hide_border=false&layout=compact">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KonnerV&theme=dracula&show_icons=true&hide_border=false&count_private=true">
-
 ## Current ongoing projects
 
 - [Rmlogs](https://github.com/Deimaeth/Rmlogs)
