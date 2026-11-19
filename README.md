@@ -1,11 +1,8 @@
 # Deimaeth
-Greetings!
-My name is [Deimaeth](https://github.com/Deimaeth), a young, aspiring and enthusiastic programmer who loves programming in their spare time.
-I profoundly relish using a meticulous array of tools and languages. This includes the likes of: C, C++, C#, Java and Python just to mention a few.
+Yo!
+I'm [Deimaeth](https://github.com/Deimaeth), I sometimes do some programming(usually something related to physics).
 
-Withal, I have a powerful predisposition to discover, explore and tinker with the vast complexity of Operating System Development and the miscellaneous topics that come with it.
-
-## Skills and Programming Languages
+## Some programming languages I fuck with
 <img width="22" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/> C
 
 <img width="22" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/> C++
